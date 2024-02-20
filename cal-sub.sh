@@ -10,6 +10,5 @@
 a=5
 b=10
 
-result=$((a+b))
-echo "sum is : $result"
-echo "1st line"
+result=$((a-b))
+echo "sub is : $result"
